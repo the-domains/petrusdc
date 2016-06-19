@@ -1,0 +1,14 @@
+layout_spectrum: 0.8961566430516541
+typography_spectrum: 0.5610368789639324
+color:
+  brandStrength: 0.710404759272933
+  lightness: 0.728418359067291
+  saturation: 0.40634322445839643
+  rhythmicContrast: 0.5385987318586558
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: petrusdc
